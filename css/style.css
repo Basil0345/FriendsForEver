@@ -64,7 +64,7 @@ main{
 }
 
 footer{
-    top:100%;
+    bottom:0;
 }
 
 .card{
